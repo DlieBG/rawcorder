@@ -35,10 +35,9 @@ Usage: rawcorder record [OPTIONS]
 
   Author:     Benedikt SCHWERING <mail@bschwer.ing>
 
-  Params:     output (str): The path to the output file.
-
 Options:
   -o, --output FILE  [required]
+  -a, --append
   --help             Show this message and exit.
 ```
 
@@ -51,9 +50,8 @@ Usage: rawcorder replay [OPTIONS]
 
   Author:     Benedikt SCHWERING <mail@bschwer.ing>
 
-  Params:     input (str): The path to the input file.
-
 Options:
-  -i, --input FILE  [required]
-  --help            Show this message and exit.
+  -i, --input FILE     [required]
+  -d, --delay INTEGER  [default: 500]
+  --help               Show this message and exit.
 ```

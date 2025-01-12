@@ -10,9 +10,10 @@ Author Benedikt SCHWERING <mail@bschwer.ing>
 """
 from pathlib import Path
 from rich import print
+from time import sleep
 import pika, os
 
-def replay_command(input: Path):
+def replay_command(input: Path, delay: int):
     """ Replay Queue Data from a file.
     
         Author:
@@ -20,6 +21,7 @@ def replay_command(input: Path):
 
         Params:
             input (Path): The path to the input file.
+            delay (int): The delay between each message in milliseconds.
     """
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(
@@ -44,3 +46,5 @@ def replay_command(input: Path):
                 routing_key='frontend_group4',
                 body=line,
             )
+
+            sleep(delay / 1000)

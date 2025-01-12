@@ -67,7 +67,14 @@ def record(output: str, append: bool):
     ),
     required=True,
 )
-def replay(input: str):
+@click.option(
+    '--delay',
+    '-d',
+    type=int,
+    default=500,
+    show_default=True,
+)
+def replay(input: str, delay: int):
     """ Replay Queue Data from a file.
     
         Author:
@@ -75,7 +82,9 @@ def replay(input: str):
 
         Params:
             input (str): The path to the input file.
+            delay (int): The delay between each message in milliseconds.
     """
     replay_command(
         input=Path(input),
+        delay=delay,
     )
