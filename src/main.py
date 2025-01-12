@@ -33,7 +33,12 @@ def cli():
     ),
     required=True,
 )
-def record(output: str):
+@click.option(
+    '--append',
+    '-a',
+    is_fag=True,
+)
+def record(output: str, append: bool):
     """ Record Queue Data to a file.
 
         Author:
@@ -41,9 +46,11 @@ def record(output: str):
 
         Params:
             output (str): The path to the output file.
+            append (bool): Append to the file.
     """
     record_command(
         output=Path(output),
+        append=append,
     )
 
 @cli.command(

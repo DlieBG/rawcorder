@@ -12,7 +12,7 @@ from pathlib import Path
 from rich import print
 import pika, os
 
-def record_command(output: Path):
+def record_command(output: Path, append: bool):
     """ Record Queue Data to a file.
     
         Author:
@@ -20,6 +20,7 @@ def record_command(output: Path):
 
         Params:
             output (Path): The path to the output file.
+            append (bool): Append to the file.
     """
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(
@@ -33,11 +34,11 @@ def record_command(output: Path):
         durable=True,
     )
 
-    # Clear the output file.
-    if output.exists():
-        output.unlink()
-
-    output.touch()
+    # Clear the output file if not in append mode.
+    if not append:
+        if output.exists():
+            output.unlink()
+        output.touch()
 
     def callback(ch, method, properties, body):
         print(f'Received [green]{body}[/]')
