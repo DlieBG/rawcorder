@@ -36,7 +36,7 @@ def cli():
 @click.option(
     '--append',
     '-a',
-    is_fag=True,
+    is_flag=True,
 )
 def record(output: str, append: bool):
     """ Record Queue Data to a file.
