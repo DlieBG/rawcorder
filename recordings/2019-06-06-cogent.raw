@@ -1,0 +1,352 @@
+{"timestamp": "2019-06-06T11:00:26", "routes": 746, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:00:56", "routes": 727, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:01:26", "routes": 801, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:01:56", "routes": 787, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:02:26", "routes": 739, "total_anomalies": 278, "as_anomalies": {"174": 278}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:02:56", "routes": 764, "total_anomalies": 747, "as_anomalies": {"174": 747}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:03:26", "routes": 774, "total_anomalies": 752, "as_anomalies": {"174": 752}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:03:56", "routes": 790, "total_anomalies": 781, "as_anomalies": {"174": 781}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:04:26", "routes": 772, "total_anomalies": 753, "as_anomalies": {"174": 753}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:04:56", "routes": 943, "total_anomalies": 915, "as_anomalies": {"174": 726, "9848": 189}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:05:26", "routes": 1106, "total_anomalies": 1100, "as_anomalies": {"174": 720, "9848": 363, "15412": 17}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:05:56", "routes": 933, "total_anomalies": 921, "as_anomalies": {"174": 760, "9848": 161}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:06:26", "routes": 990, "total_anomalies": 859, "as_anomalies": {"174": 859}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:06:56", "routes": 917, "total_anomalies": 887, "as_anomalies": {"174": 887}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:07:27", "routes": 772, "total_anomalies": 760, "as_anomalies": {"174": 760}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:07:57", "routes": 781, "total_anomalies": 764, "as_anomalies": {"174": 764}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:08:27", "routes": 772, "total_anomalies": 765, "as_anomalies": {"174": 765}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:08:57", "routes": 829, "total_anomalies": 732, "as_anomalies": {"174": 732}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:09:27", "routes": 756, "total_anomalies": 584, "as_anomalies": {"174": 584}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:09:57", "routes": 733, "total_anomalies": 459, "as_anomalies": {"174": 459}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:10:27", "routes": 772, "total_anomalies": 423, "as_anomalies": {"174": 423}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:10:57", "routes": 828, "total_anomalies": 424, "as_anomalies": {"174": 424}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:11:27", "routes": 921, "total_anomalies": 494, "as_anomalies": {"174": 494}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:11:57", "routes": 754, "total_anomalies": 453, "as_anomalies": {"174": 453}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:12:27", "routes": 739, "total_anomalies": 716, "as_anomalies": {"174": 716}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:12:57", "routes": 753, "total_anomalies": 623, "as_anomalies": {"174": 623}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:13:27", "routes": 871, "total_anomalies": 631, "as_anomalies": {"174": 631}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:13:57", "routes": 787, "total_anomalies": 567, "as_anomalies": {"174": 567}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:14:27", "routes": 896, "total_anomalies": 549, "as_anomalies": {"174": 549}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:14:57", "routes": 756, "total_anomalies": 492, "as_anomalies": {"174": 492}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:15:27", "routes": 753, "total_anomalies": 457, "as_anomalies": {"174": 457}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:15:57", "routes": 746, "total_anomalies": 326, "as_anomalies": {"174": 326}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:16:27", "routes": 729, "total_anomalies": 168, "as_anomalies": {"174": 168}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:16:57", "routes": 749, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:17:27", "routes": 768, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:17:57", "routes": 867, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:18:27", "routes": 738, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:18:57", "routes": 735, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:19:27", "routes": 725, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:19:57", "routes": 745, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:20:27", "routes": 776, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:20:57", "routes": 739, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:21:27", "routes": 779, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:21:57", "routes": 785, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:22:27", "routes": 761, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:22:57", "routes": 744, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:23:27", "routes": 725, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:23:57", "routes": 742, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:24:27", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:24:57", "routes": 770, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:25:27", "routes": 745, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:25:57", "routes": 764, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:26:27", "routes": 748, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:26:57", "routes": 751, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:27:27", "routes": 806, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:27:57", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:28:27", "routes": 762, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:28:57", "routes": 786, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:29:27", "routes": 759, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:29:57", "routes": 736, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:30:28", "routes": 840, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:30:58", "routes": 742, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:31:28", "routes": 733, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:31:58", "routes": 750, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:32:28", "routes": 721, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:32:58", "routes": 743, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:33:28", "routes": 769, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:33:58", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:34:28", "routes": 773, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:34:58", "routes": 748, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:35:28", "routes": 795, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:35:58", "routes": 798, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:36:28", "routes": 756, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:36:58", "routes": 795, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:37:28", "routes": 734, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:37:58", "routes": 908, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:38:28", "routes": 779, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:38:58", "routes": 807, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:39:28", "routes": 581, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:39:58", "routes": 962, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:40:28", "routes": 1043, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:40:58", "routes": 551, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:41:28", "routes": 745, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:41:58", "routes": 723, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:42:28", "routes": 409, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:45:28", "routes": 392, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:45:58", "routes": 872, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:46:28", "routes": 919, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:46:58", "routes": 1512, "total_anomalies": 156, "as_anomalies": {"21217": 156}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:47:28", "routes": 1497, "total_anomalies": 744, "as_anomalies": {"21217": 744}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:47:58", "routes": 1430, "total_anomalies": 570, "as_anomalies": {"21217": 570}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:48:28", "routes": 845, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:48:58", "routes": 1306, "total_anomalies": 582, "as_anomalies": {"21217": 582}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:49:28", "routes": 722, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:49:58", "routes": 706, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:50:28", "routes": 723, "total_anomalies": 302, "as_anomalies": {"174": 302}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:50:58", "routes": 724, "total_anomalies": 610, "as_anomalies": {"174": 610}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:51:28", "routes": 708, "total_anomalies": 437, "as_anomalies": {"174": 437}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:51:58", "routes": 708, "total_anomalies": 211, "as_anomalies": {"174": 211}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:52:28", "routes": 822, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:52:58", "routes": 815, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:53:28", "routes": 817, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:53:58", "routes": 817, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:54:28", "routes": 847, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:54:58", "routes": 806, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:55:29", "routes": 759, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:55:59", "routes": 548, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:56:29", "routes": 822, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:56:59", "routes": 760, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:57:29", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:57:59", "routes": 730, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:58:29", "routes": 693, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:58:59", "routes": 1313, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:59:29", "routes": 1231, "total_anomalies": 360, "as_anomalies": {"21217": 360}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T11:59:59", "routes": 772, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:00:29", "routes": 8766, "total_anomalies": 8252, "as_anomalies": {"21217": 7338, "174": 914}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:00:59", "routes": 808, "total_anomalies": 769, "as_anomalies": {"174": 769}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:01:29", "routes": 833, "total_anomalies": 786, "as_anomalies": {"174": 786}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:01:59", "routes": 772, "total_anomalies": 738, "as_anomalies": {"174": 738}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:02:29", "routes": 6368, "total_anomalies": 6352, "as_anomalies": {"174": 1570, "21217": 4782}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:02:59", "routes": 3597, "total_anomalies": 3582, "as_anomalies": {"174": 1156, "21217": 2226, "4134": 200}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:03:29", "routes": 736, "total_anomalies": 728, "as_anomalies": {"174": 728}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:03:59", "routes": 774, "total_anomalies": 760, "as_anomalies": {"174": 760}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:04:29", "routes": 725, "total_anomalies": 708, "as_anomalies": {"174": 708}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:04:59", "routes": 783, "total_anomalies": 756, "as_anomalies": {"174": 756}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:05:29", "routes": 831, "total_anomalies": 825, "as_anomalies": {"174": 825}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:05:59", "routes": 1103, "total_anomalies": 687, "as_anomalies": {"174": 687}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:06:29", "routes": 958, "total_anomalies": 848, "as_anomalies": {"174": 848}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:06:59", "routes": 795, "total_anomalies": 786, "as_anomalies": {"174": 786}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:07:29", "routes": 1097, "total_anomalies": 1088, "as_anomalies": {"174": 1088}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:07:59", "routes": 1046, "total_anomalies": 504, "as_anomalies": {"174": 504}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:08:29", "routes": 1360, "total_anomalies": 670, "as_anomalies": {"174": 670}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:08:59", "routes": 1506, "total_anomalies": 1404, "as_anomalies": {"174": 1404}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:09:29", "routes": 827, "total_anomalies": 809, "as_anomalies": {"174": 809}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:09:59", "routes": 796, "total_anomalies": 781, "as_anomalies": {"174": 781}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:10:29", "routes": 809, "total_anomalies": 774, "as_anomalies": {"174": 774}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:10:59", "routes": 741, "total_anomalies": 720, "as_anomalies": {"174": 720}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:11:29", "routes": 781, "total_anomalies": 772, "as_anomalies": {"174": 772}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:11:59", "routes": 885, "total_anomalies": 875, "as_anomalies": {"174": 875}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:12:29", "routes": 779, "total_anomalies": 757, "as_anomalies": {"174": 757}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:12:59", "routes": 780, "total_anomalies": 539, "as_anomalies": {"174": 539}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:13:29", "routes": 742, "total_anomalies": 301, "as_anomalies": {"174": 301}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:13:59", "routes": 1405, "total_anomalies": 344, "as_anomalies": {"174": 344}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:14:29", "routes": 757, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:14:59", "routes": 735, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:15:29", "routes": 1344, "total_anomalies": 44, "as_anomalies": {"174": 44}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:15:59", "routes": 814, "total_anomalies": 65, "as_anomalies": {"174": 65}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:16:29", "routes": 5554, "total_anomalies": 5122, "as_anomalies": {"21217": 4470, "174": 652}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:16:59", "routes": 15697, "total_anomalies": 15567, "as_anomalies": {"21217": 4470, "174": 6104, "4134": 4993}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:19:30", "routes": 724, "total_anomalies": 717, "as_anomalies": {"174": 712, "4134": 5}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:20:00", "routes": 743, "total_anomalies": 729, "as_anomalies": {"174": 729}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:20:30", "routes": 237, "total_anomalies": 225, "as_anomalies": {"174": 225}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:24:00", "routes": 660, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:24:30", "routes": 6740, "total_anomalies": 1118, "as_anomalies": {"4134": 1118}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:32:00", "routes": 560, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:32:30", "routes": 771, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:33:00", "routes": 844, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:33:30", "routes": 904, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:34:00", "routes": 842, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:34:30", "routes": 816, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:35:00", "routes": 606, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:35:30", "routes": 668, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:36:00", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:36:30", "routes": 613, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:38:30", "routes": 233, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:39:00", "routes": 377, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:39:30", "routes": 805, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:40:00", "routes": 577, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:43:30", "routes": 377, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:44:00", "routes": 735, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:44:30", "routes": 763, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:45:00", "routes": 961, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:47:01", "routes": 593, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:47:30", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:48:00", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:48:30", "routes": 763, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:49:00", "routes": 744, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:49:30", "routes": 776, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:50:00", "routes": 780, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:50:30", "routes": 803, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:51:00", "routes": 755, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:51:30", "routes": 761, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:52:00", "routes": 746, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:52:30", "routes": 824, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:53:00", "routes": 1133, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:53:30", "routes": 931, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:54:00", "routes": 589, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:56:01", "routes": 574, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:56:30", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:57:00", "routes": 747, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:57:30", "routes": 866, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T12:58:00", "routes": 458, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:00:01", "routes": 178, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:00:30", "routes": 732, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:01:00", "routes": 723, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:01:30", "routes": 802, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:02:00", "routes": 800, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:02:30", "routes": 772, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:03:00", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:03:30", "routes": 780, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:04:00", "routes": 734, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:06:01", "routes": 587, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:06:30", "routes": 742, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:07:00", "routes": 94, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:10:01", "routes": 397, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:10:30", "routes": 728, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:11:00", "routes": 750, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:11:30", "routes": 758, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:12:00", "routes": 247, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:14:02", "routes": 337, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:14:30", "routes": 705, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:15:00", "routes": 374, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:16:32", "routes": 403, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:17:00", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:17:30", "routes": 749, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:18:00", "routes": 747, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:18:30", "routes": 746, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:19:00", "routes": 767, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:19:30", "routes": 777, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:20:00", "routes": 750, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:20:30", "routes": 798, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:21:00", "routes": 290, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:22:32", "routes": 685, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:23:00", "routes": 758, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:23:30", "routes": 766, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:24:00", "routes": 622, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:26:30", "routes": 972, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:27:00", "routes": 926, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:27:30", "routes": 969, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:28:00", "routes": 791, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:28:30", "routes": 592, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:30:32", "routes": 511, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:31:00", "routes": 744, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:31:30", "routes": 157, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:37:33", "routes": 1723, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:38:03", "routes": 586, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:38:30", "routes": 834, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:39:00", "routes": 2, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:44:03", "routes": 422, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:44:30", "routes": 835, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:45:00", "routes": 810, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:45:30", "routes": 765, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:47:03", "routes": 72, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:47:30", "routes": 860, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:48:00", "routes": 489, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:50:03", "routes": 592, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:50:30", "routes": 1680, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:51:00", "routes": 825, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:52:33", "routes": 2695, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:53:00", "routes": 2529, "total_anomalies": 185, "as_anomalies": {"174": 185}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:53:30", "routes": 824, "total_anomalies": 582, "as_anomalies": {"174": 582}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:54:00", "routes": 730, "total_anomalies": 717, "as_anomalies": {"174": 717}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:54:30", "routes": 338, "total_anomalies": 330, "as_anomalies": {"174": 330}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:56:30", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:57:00", "routes": 742, "total_anomalies": 1, "as_anomalies": {"174": 1}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:57:30", "routes": 752, "total_anomalies": 53, "as_anomalies": {"174": 53}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:58:00", "routes": 310, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T13:59:34", "routes": 927, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:00:00", "routes": 756, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:00:30", "routes": 745, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:01:00", "routes": 122, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:02:04", "routes": 30, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:02:30", "routes": 747, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:03:00", "routes": 360, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:06:04", "routes": 1572, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:10:04", "routes": 2630, "total_anomalies": 2226, "as_anomalies": {"21217": 2226}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:13:04", "routes": 138, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:13:30", "routes": 1272, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:18:34", "routes": 178, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:19:00", "routes": 899, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:22:05", "routes": 569, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:22:30", "routes": 566, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:28:05", "routes": 697, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:28:30", "routes": 442, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:33:00", "routes": 1203, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:33:30", "routes": 222, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:36:05", "routes": 141, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:36:30", "routes": 595, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:37:00", "routes": 791, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:37:30", "routes": 1020, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:39:05", "routes": 189, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:39:30", "routes": 786, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:40:00", "routes": 157, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:41:35", "routes": 685, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:42:00", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:42:30", "routes": 728, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:43:00", "routes": 166, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:44:05", "routes": 445, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:44:30", "routes": 764, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:45:00", "routes": 758, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:45:30", "routes": 301, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:47:06", "routes": 459, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:47:30", "routes": 679, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:49:36", "routes": 66, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:50:00", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:50:30", "routes": 324, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:53:36", "routes": 11, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:54:00", "routes": 885, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:54:30", "routes": 240, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:59:06", "routes": 198, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T14:59:30", "routes": 743, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:00:00", "routes": 203, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:01:06", "routes": 83, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:01:30", "routes": 949, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:02:00", "routes": 102, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:03:36", "routes": 237, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:04:00", "routes": 901, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:07:36", "routes": 686, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:08:00", "routes": 457, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:11:07", "routes": 273, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:11:30", "routes": 777, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:12:00", "routes": 1116, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:12:30", "routes": 923, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:13:00", "routes": 314, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:15:37", "routes": 516, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:16:00", "routes": 616, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:22:37", "routes": 18, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:23:00", "routes": 728, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:23:30", "routes": 392, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:28:37", "routes": 84, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:29:00", "routes": 774, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:29:30", "routes": 981, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:30:00", "routes": 435, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:32:07", "routes": 30, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:32:30", "routes": 756, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:33:00", "routes": 71, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:37:08", "routes": 572, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:39:08", "routes": 55, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:39:30", "routes": 735, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:40:00", "routes": 67, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:42:38", "routes": 381, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:43:00", "routes": 471, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:45:08", "routes": 550, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:45:30", "routes": 363, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:47:08", "routes": 247, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:47:30", "routes": 595, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:52:08", "routes": 827, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:52:30", "routes": 820, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:53:00", "routes": 43, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:53:38", "routes": 44, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:54:00", "routes": 755, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:54:30", "routes": 752, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:55:00", "routes": 919, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:55:30", "routes": 894, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:56:00", "routes": 756, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:56:30", "routes": 746, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:57:00", "routes": 741, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:57:30", "routes": 785, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:58:00", "routes": 809, "total_anomalies": 0, "as_anomalies": {}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:58:30", "routes": 871, "total_anomalies": 201, "as_anomalies": {"174": 201}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:59:00", "routes": 802, "total_anomalies": 356, "as_anomalies": {"174": 356}, "prefix_anomalies": {}}
+{"timestamp": "2019-06-06T15:59:30", "routes": 796, "total_anomalies": 264, "as_anomalies": {"174": 264}, "prefix_anomalies": {}}
