@@ -10,8 +10,11 @@ Author Benedikt SCHWERING <mail@bschwer.ing>
 """
 from src.commands.record import record_command
 from src.commands.replay import replay_command
+from dotenv import load_dotenv, find_dotenv
 from pathlib import Path
 import click
+
+load_dotenv(find_dotenv())
 
 @click.group()
 def cli():

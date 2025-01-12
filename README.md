@@ -17,6 +17,12 @@ For debugging and development purposes you can use `-e` to apply local code chan
 pip3 install -e .
 ```
 
+### Environment Variables
+To configure the RabbitMQ Message Queue, you have to provide a `.env` file with the following variables:
+```
+RABBIT_MQ_HOST=
+```
+
 ## Usage
 `rawcorder` enables you to capture all messages of a RabbitMQ Queue in order to replay them afterwards.
 

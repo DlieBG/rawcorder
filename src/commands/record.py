@@ -10,7 +10,7 @@ Author Benedikt SCHWERING <mail@bschwer.ing>
 """
 from pathlib import Path
 from rich import print
-import pika
+import pika, os
 
 def record_command(output: Path):
     """ Record Queue Data to a file.
@@ -23,7 +23,7 @@ def record_command(output: Path):
     """
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(
-            host='localhost',
+            host=os.getenv('RABBIT_MQ_HOST'),
         ),
     )
     channel = connection.channel()
